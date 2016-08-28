@@ -1,1 +1,2 @@
 This is B.
+some change in B not staged.
